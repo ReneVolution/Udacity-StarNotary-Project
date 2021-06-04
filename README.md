@@ -1,8 +1,8 @@
 **PROJECT: Decentralized Star Notary Service Project** - For this project, you will create a DApp by adding functionality with your smart contract and deploy it on the public testnet.
 
-**ERC-721 Token Name**: `Galactic Star Token`
-**ERC-721 Token Symbol**: `GTOK`
-**Rinkeby Address**: `0xeCf2430831Ff1BB1fe474d10Fa367b31534a6c5A`
+**ERC-721 Token Name**: `Galactic Star Token`<br>
+**ERC-721 Token Symbol**: `GTOK`<br>
+**Rinkeby Address**: `0xeCf2430831Ff1BB1fe474d10Fa367b31534a6c5A`<br>
 
 This assignment has been finished using the following software packages:
 
